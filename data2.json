@@ -1,0 +1,16 @@
+{
+    "Student": [
+        {
+            "name": "fred",
+            "age": 18,
+            "grade": 90,
+            "full_time": false
+        },
+        {
+            "name": "russ",
+            "age": 19,
+            "grade": 95,
+            "full_time": true
+        }
+    ]
+}
